@@ -4,53 +4,6 @@
     <meta charset="UTF-8">
     <title>Waytranslate</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #0f172a;
-            color: #e2e8f0;
-            margin: 0;
-            padding: 40px;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #38bdf8;
-        }
-        code {
-            background-color: #1e293b;
-            padding: 4px 6px;
-            border-radius: 6px;
-            font-family: monospace;
-            color: #facc15;
-        }
-        pre {
-            background-color: #1e293b;
-            padding: 16px;
-            border-radius: 10px;
-            overflow-x: auto;
-        }
-        .container {
-            max-width: 900px;
-            margin: auto;
-        }
-        .badge {
-            display: inline-block;
-            background: #334155;
-            padding: 4px 10px;
-            border-radius: 999px;
-            margin-right: 8px;
-            font-size: 12px;
-        }
-        .section {
-            margin-bottom: 40px;
-        }
-        hr {
-            border: none;
-            border-top: 1px solid #334155;
-            margin: 40px 0;
-        }
-    </style>
-</head>
-<body>
 <div class="container">
 
 <h1>Waytranslate</h1>
