@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Waytranslate</title>
-    <style>
-<div class="container">
 
 <h1>Waytranslate</h1>
 
